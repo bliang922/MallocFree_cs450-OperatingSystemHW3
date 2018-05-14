@@ -1,0 +1,5 @@
+
+ int uv2p(cha * va);
+—-va, the virtual address of user input for translate 
+—-return 0 and print the found physical address to screen
+—-return -1 if the va is not exist in page table
